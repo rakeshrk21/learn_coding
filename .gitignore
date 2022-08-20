@@ -1,0 +1,12 @@
+# ignore ALL files in ANY directory named bin
+bin
+
+# ignore ALL files in ANY directory named lib
+lib
+
+# ignore ALL files in ANY directory named idea
+.idea
+
+# ignore files
+pyvenv.cfg
+.idea/
