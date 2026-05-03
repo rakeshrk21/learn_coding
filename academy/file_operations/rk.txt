@@ -1,0 +1,8 @@
+Yes, I can read from and write to files.
+If you have a specific task in mind, 
+such as reading from a file or writing data to a file, 
+45.35.67.89 256.56.89.121
+please provide the details, and I'll assist you with that.write something!
+parse the ip address 193.245.245.23 and port 40
+invalid ip 432.225.223.23
+this is my ip 56.98.34.67

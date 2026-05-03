@@ -12,7 +12,6 @@ def divide(divident, divisor):
             flag = False
             return count
     
-print(divide(10,3))
-print(divide(25,5))
+# print(divide(10,3))
+# print(divide(25,5))
 print(divide(7,-3))
-        

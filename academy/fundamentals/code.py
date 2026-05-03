@@ -132,6 +132,3 @@ def apply(*args, operator):
 
 
 print(apply(2, 8, 9, operator='*'))
-
-
-

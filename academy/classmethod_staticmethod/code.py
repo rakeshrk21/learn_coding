@@ -12,7 +12,7 @@ class ClassTest:
 
 
 class Book:
-    TYPES = ("hardcover", "paperback")
+    TYPES = ("hardcover", "paperback") # class attribute (tuple) defining the types of book
 
     def __init__(self, name, book_type, weight):
         self.name = name
@@ -24,7 +24,7 @@ class Book:
 
     @classmethod
     def hardcover(cls, name, page_weight):
-        return cls(name, Book.TYPES[0], page_weight + 100)
+        return Book(name, Book.TYPES[0], page_weight + 100)
 
     @classmethod
     def paperback(cls, name, page_weight):
